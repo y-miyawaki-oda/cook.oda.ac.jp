@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="100" viewBox="0 0 114 100">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        font-size: 36px;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.9;
+        text-anchor: end;
+        font-family: UDTypos515Std-Regular, "UDTypos515 Std";
+      }
+
+      .cls-2 {
+        font-size: 19.37px;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="9" y="4" width="95" height="96" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="39" y="25" width="48" height="55" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="〇" class="cls-1" transform="translate(111.333 92.578) scale(3.041)"><tspan x="0">〇</tspan></text>
+  <text id="_" data-name="△" class="cls-2" transform="matrix(0, 3.041, -3.041, 0, 38.885, 81.604)"><tspan x="0">△</tspan></text>
+</svg>
